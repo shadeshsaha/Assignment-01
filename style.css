@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins';
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+span{
+    color: orange;
+}
+.img{
+    width: 100%;
+    border-radius: 50%;
+    height: auto;
+}
+.main{
+    width: 50%;
+    padding: 10%;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    padding: 0 5%;
+}
+.button-first{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.bg{
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    text-align: center;
+}
+
+.text p{
+    display: inline-block;
+    padding: 0 25%;
+}
+.card{
+    box-shadow: 1px 1px 25px gray;
+    margin: 0 50px;
+    border-radius: 20px;
+}
+.xyz{
+    padding: 0 10%;
+    border: 75px;
+}  
+.main2{
+    padding: 10% 10% 5% 10%;
+}
+
+.img2{
+    border-radius: 10%;
+    padding-top: 15px;
+}
+.footer{
+    padding: 5px;
+    margin-top: 5%;
+    background-color: black;
+}
+.footer p{
+    color: white;
+}
+.footer h2{
+    color: white;
+}
+.space{
+    margin: 0 auto;
+}
+.like{
+    margin-top: 5%;
+}
+.customer{
+    padding: auto;
+}
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+}
